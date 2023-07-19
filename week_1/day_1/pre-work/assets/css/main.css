@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(102, 49, 214);
+    text-align: center;
+  }
+  h1 {
+    color: rgb(253, 253, 0);
+  }
+  p {
+    color: rgb(21, 221, 94);
+  }
+
+  .username{
+    background-color:#e09509;
+
+  }
+
+  .forms{
+    color: rgb(21, 221, 94);
+  }
